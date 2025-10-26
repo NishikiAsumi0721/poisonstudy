@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.icon.png-5606f959ef0affabd72a83b687f1d334.stex"
+path="res://.import/index.icon.png-8f1033fefc625e41b9f9f2037f9769fc.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://output/index.icon.png"
-dest_files=[ "res://.import/index.icon.png-5606f959ef0affabd72a83b687f1d334.stex" ]
+source_file="res://output/poisonstudy/index.icon.png"
+dest_files=[ "res://.import/index.icon.png-8f1033fefc625e41b9f9f2037f9769fc.stex" ]
 
 [params]
 
